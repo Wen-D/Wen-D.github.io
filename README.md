@@ -1,2 +1,2 @@
-# Wen-D.github.io
-PixelMamma - Portfolio
+#PixelMamma - Portfolio
+Just Gitting
